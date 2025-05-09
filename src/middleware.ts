@@ -22,14 +22,19 @@ export function middleware(request: NextRequest) {
     const requestHeaders = new Headers(request.headers)
     requestHeaders.set('Origin', 'https://app.dynamicauth.com')
     
-    // Create a new request with modified headers
+    // Get the request body
+    const body = request.body
+    
+    // Create a new request with modified headers and body
     const modifiedRequest = new Request(request.url, {
       method: request.method,
       headers: requestHeaders,
-      body: request.body,
+      body: body,
       redirect: 'follow',
+      signal: request.signal,
     })
 
+    // Forward the request to Dynamic Auth
     const response = NextResponse.next({
       request: modifiedRequest,
     })
