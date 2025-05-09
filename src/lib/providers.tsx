@@ -19,6 +19,7 @@ export default function Providers({
       settings={{
         environmentId: "036ecc71-d538-4f6c-8e7a-9c5324208c7e",
         walletConnectors: [EthereumWalletConnectors, SolanaWalletConnectors],
+        apiBaseUrl: "/dynamic-auth"
       }}
     >
       {children}

@@ -9,6 +9,14 @@ const nextConfig = {
         }
       ]
   },
+  async rewrites() {
+    return [
+      {
+        source: '/api/v0/sdk/:path*',
+        destination: 'https://app.dynamicauth.com/api/v0/sdk/:path*',
+      },
+    ]
+  },
   images: {
     domains: ['*'],
     unoptimized: true
