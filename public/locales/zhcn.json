@@ -1,0 +1,178 @@
+{
+  "topbar": {
+    "Connect Wallet": "连接钱包",
+    "Marketplace": "市場"
+  },
+  "searchInput": {
+    "Search NFTs,Collections,Creators or more": "搜尋 NFT、收藏品、創作者或更多",
+    "Clear": "清除",
+    "No Records": "沒有記錄",
+    "Records": "記錄",
+    "NFTs": "NFTs",
+    "No result found for this search.": "沒有找到此搜尋的結果。",
+    "Search NFT more...": "搜尋NFT更多..."
+  },
+  "categories": {
+    "Categories": "類別",
+    "Under $100": "100 美元以下",
+    "New Floor Price": "新樓面價",
+    "Photography": "攝影",
+    "Cartoon/Anime": "卡通/動畫",
+    "Music": "音樂",
+    "Ticket / Pass": "門票/通行證",
+    "Most Liked": "最喜歡",
+    "$100 - $250": "$100 - $250",
+    "PFP": "PFP",
+    "3D": "3D"
+  },
+  "home": {
+    "Marketplace For Creators": "創作者市場",
+    "Buy & Sell NFTS": "買賣 NFTS",
+    "NFT Marketplace is the premier marketplace for NFTs, which are digital items you can truly own. Digital Items have existed for a long time, but never like this.": "NFT Marketplace 是NFT 的首要市場，NFT 是你可以真正擁有的數位物品。數位物品已經存在很久了，但從未像現在這樣。」：「NFT Marketplace 是NFT 的首要市場，NFT 是你可以真正擁有的數字物品。可以真正擁有。數字物品已經存在很長時間了，但從來沒有像現在這樣。",
+    "Creators": "創造者"
+  },
+  "actions": {
+    "Create NFT": "創建NFT",
+    "Load More": "加載更多",
+    "Back to top": "回到頂部",
+    "Confirm": "確認",
+    "Create a collection": "建立一個集合",
+    "List for sale": "待售清單",
+    "Approve NFT": "核准 NFT",
+    "Close": "關閉",
+    "Place a bid": "出價",
+    "Remove from auction": "從拍賣中刪除",
+    "Remove from listing": "從清單中刪除",
+    "Buy now": "立即購買",
+    "Update listing": "更新清單",
+    "Cancel": "取消"
+  },
+  "footer": {
+    "All Right Reserved.": "保留所有權利。",
+    "Pricing": "價錢",
+    "Privacy Policy": "隱私權政策",
+    "Find us on": "在 - 找到我們"
+  },
+  "nft": {
+    "Floor Price": "底價",
+    "Created by": "由...製作"
+  },
+  "wallet": {
+    "Connect Wallet": "連接錢包",
+    "Most Popular Decentralized Wallets": "最受歡迎的去中心化錢包",
+    "Open source decentralized wallet connection protocol": "開源去中心化錢包連結協定"
+  },
+  "menus": {
+    "Personal data": "個人資料",
+    "My Collection": "我的收藏",
+    "Create NFT": "創建NFT",
+    "Exit": "出口"
+  },
+  "personalData": {
+    "Photo": "照片",
+    "Select photos": "選擇照片",
+    "Supports JPG/PNG, with files smaller than 100MB": "支援JPG/PNG，檔案小於100MB",
+    "Nickname": "暱稱",
+    "Brief introduction": "簡單的介紹",
+    "Social media": "社交媒體",
+    "Email": "電子郵件",
+    "Discord": "不和諧",
+    "Telegram": "電報"
+  },
+  "mycollection": {
+    "My collection": "我的收藏",
+    "Listed": "列出",
+    "Sale": "銷售",
+    "Bid": "出價",
+    "Transaction History": "交易記錄"
+  },
+  "history": {
+    "Tx Hash": "交易哈希值",
+    "NFT": "NFT",
+    "Price": "價格",
+    "Date": "日期",
+    "Status": "狀態",
+    "BOUGHT": "買",
+    "SOLD": "已售出",
+    "PLACED A BID": "已出價",
+    "CREATED": "創建",
+    "COMPLETED": "完全的"
+  },
+  "createNFT": {
+    "Import pictures, videos, or audio": "導入圖片、影片或音訊",
+    "My NFT Name": "我的NFT名稱",
+    "Description": "描述",
+    "Network": "網絡",
+    "Collection": "收藏",
+    "Select a collection for your project, once selected and cast, it cannot be modified.If you need a new collection, please create a collection.": "為您的專案選擇一個集合，一旦選擇並投放後，將無法修改。如果您需要新的集合，請建立一個集合。",
+    "Characteristic": "特徵",
+    "Attribute": "屬性",
+    "Value": "價值",
+    "Add attributes?": "新增屬性？",
+    "Supports JPG/PNG, with files smaller than 2M": "支援JPG/PNG，檔案小於2M"
+  },
+  "createCollection": {
+    "Create, plan, and manage an exclusive NFT series for sharing and sales.": "創建、規劃和管理獨家 NFT 系列以進行共享和銷售。",
+    "Logo Image": "標誌圖像",
+    "Banner Image": "橫幅圖片",
+    "My Series Name": "我的系列名稱",
+    "Token symbol": "代幣符號",
+    "The name cannot be changed after creating a collection.": "創建集合後不能更改名稱。",
+    "The symbol will be used to create your smart contract and cannot be changed after creating the collection.When others view your smart contract, the token symbol will be displayed on the blockbrowser.": "該符號將用於創建您的智能合約，創建集合後無法更改。當其他人查看您的智能合約時，該符號將顯示在區塊瀏覽器上。",
+    "Description": "描述",
+    "Classification": "分類",
+    "Royalty": "版稅",
+    "Charge a handling fee when a user resells a project originally created by you. You can set a ratio of less than 10%, which cannot be changed after creating a collection.": "用戶在轉售您原創項目時收取手續費。您可以設定小於10%的比例，創建集合後不可更改。",
+    "Supports JPG/PNG, with files smaller than 2M": "支援JPG/PNG，檔案小於2M"
+  },
+  "loading": {
+    "Uploading Image": "上傳圖片"
+  },
+  "requireText": {
+    "Please input field": "請輸入欄位",
+    "Name already existed": "名稱已存在",
+    "Please enter a valid amount.": "請輸入有效金額。",
+    "You don't have enough %asset%": "你沒有足夠的%asset%"
+  },
+  "nftDetail": {
+    "Contract address": "合約地址",
+    "Token ID": "令牌 ID",
+    "Token standard": "代幣標準",
+    "Owner": "業主",
+    "Creator": "創造者"
+  },
+  "listing": {
+    "Sales method": "銷售方式",
+    "listing": "列表",
+    "Listing price": "掛牌價",
+    "Duration": "持續時間",
+    "Fixed price": "固定價格",
+    "Auction": "拍賣",
+    "Min amount": "最低金額",
+    "Time buffer": "時間緩衝區",
+    "Bid buffer": "出價緩衝區",
+    "List NFT and sell NFT in the trading market": "上幣NFT並在交易市場出售NFT",
+    "Days": "天"
+  },
+  "tooltip": {
+    "The total bid amount for which the bidder can directly purchase the auctioned items and close the auction as a result.": "競買人可以直接購買拍賣品並結束拍賣的總競價金額。",
+    "The minimum bid amount for the auction.": "拍賣最低出價金額。",
+    "This is a buffer e.g. x seconds. If a new winning bid is made less than x seconds before expirationTimestamp, the expirationTimestamp is increased by x seconds.": "這是一個緩衝區，例如x 秒。如果新的中標出價在過期時間戳之前不到x 秒，則過期時間戳會增加x 秒。",
+    "This is a buffer in basis points e.g. x%. To be considered as a new winning bid, a bid must be at least x% greater than the current winning bid.": "這是一個以基點為單位的緩衝，例如x%。要被視為新的中標出價，出價必須至少比當前中標出價高x%。"
+  },
+  "modal": {
+    "Are you sure you want to continue?": "你確定你要繼續嗎？",
+    "Confirm purchase": "確認購買",
+    "Do you want to remove this NFT？After delisting, it will no longer be displayed in the trading market": "是否下架該NFT？下架後，交易市場將不再顯示",
+    "Tip": "提示"
+  },
+  "notification": {
+    "Transaction submitted": "交易已提交",
+    "NFT bought successfully": "NFT購買成功",
+    "%asset% approved successfully": "%asset%核准成功",
+    "Listing cancelled": "清單已取消",
+    "NFT approved": "NFT 已批准",
+    "NFT listed": "NFT上市",
+    "Placed a bid": "已出價"
+  }
+}

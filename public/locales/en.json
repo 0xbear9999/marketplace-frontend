@@ -1,0 +1,181 @@
+{
+  "topbar": {
+    "Connect Wallet": "Connect Wallet",
+    "Marketplace": "Marketplace"
+  },
+  "searchInput": {
+    "Search NFTs,Collections,Creators or more": "Search NFTs,Collections,Creators or more",
+    "Records": "Records",
+    "NFTs": "NFTs",
+    "Clear": "Clear",
+    "No Records": "No Records",
+    "No result found for this search.": "No result found for this search.",
+    "Search NFT more...": "Search NFT more..."
+  },
+  "categories": {
+    "Categories": "Categories",
+    "Under $100": "Under $100",
+    "New Floor Price": "New Floor Price",
+    "Photography": "Photography",
+    "Cartoon/Anime": "Cartoon/Anime",
+    "Music": "Music",
+    "Ticket / Pass": "Ticket / Pass",
+    "Most Liked": "Most Liked",
+    "$100 - $250": "$100 - $250",
+    "PFP": "PFP",
+    "3D": "3D"
+  },
+  "home": {
+    "Marketplace For Creators": "Marketplace For Creators",
+    "Buy & Sell NFTS": "Buy & Sell NFTS",
+    "NFT Marketplace is the premier marketplace for NFTs, which are digital items you can truly own. Digital Items have existed for a long time, but never like this.": "NFT Marketplace is the premier marketplace for NFTs, which are digital items you can truly own. Digital Items have existed for a long time, but never like this.",
+    "Creators": "Creators"
+  },
+  "actions": {
+    "Create NFT": "Create NFT",
+    "Load More": "Load More",
+    "Back to top": "Back to top",
+    "Confirm": "Confirm",
+    "Create a collection": "Create a collection",
+    "List for sale": "List for sale",
+    "Update listing": "Update listing",
+    "Approve NFT": "Approve NFT",
+    "Close": "Close",
+    "Place a bid": "Place a bid",
+    "Remove from auction": "Remove from auction",
+    "Remove from listing": "Remove from listing",
+    "Buy now": "Buy now",
+    "Cancel": "Cancel",
+    "Place bid": "Place a bid"
+  },
+  "footer": {
+    "All Right Reserved.": "All Right Reserved.",
+    "Pricing": "Pricing",
+    "Privacy Policy": "Privacy Policy",
+    "Find us on": "Find us on"
+  },
+  "nft": {
+    "Floor Price": "Floor Price",
+    "Created by": "Created by",
+    "Highest Bid": "Highest Bid"
+  },
+  "wallet": {
+    "Connect Wallet": "Connect Wallet",
+    "Most Popular Decentralized Wallets": "Most Popular Decentralized Wallets",
+    "Open source decentralized wallet connection protocol": "Open source decentralized wallet connection protocol"
+  },
+  "menus": {
+    "Personal data": "Personal data",
+    "Personal info": "Profile info",
+    "My Collection": "My Collection",
+    "Create NFT": "Create NFT",
+    "Exit": "Exit"
+  },
+  "personalData": {
+    "Photo": "Photo",
+    "Select photos": "Select photos",
+    "Supports JPG/PNG, with files smaller than 100MB": "Supports JPG/PNG, with files smaller than 100MB",
+    "Nickname": "Nickname",
+    "Brief introduction": "Brief introduction",
+    "Social media": "Social media",
+    "Email": "Email",
+    "Discord": "Discord",
+    "Telegram": "Telegram"
+  },
+  "mycollection": {
+    "My collection": "My collection",
+    "Listed": "Listed",
+    "Sale": "Sale",
+    "Bid": "Bid",
+    "Transaction History": "Transaction History"
+  },
+  "history": {
+    "Tx Hash": "Tx Hash",
+    "NFT": "NFT",
+    "Price": "Price",
+    "Date": "Date",
+    "Status": "Status",
+    "BOUGHT": "BOUGHT",
+    "SOLD": "SOLD",
+    "PLACED A BID": "PLACED A BID",
+    "CREATED": "CREATED",
+    "COMPLETED": "COMPLETED"
+  },
+  "createNFT": {
+    "Import pictures, videos, or audio": "Import pictures, videos, or audio",
+    "My NFT Name": "My NFT Name",
+    "Description": "Description",
+    "Network": "Network",
+    "Collection": "Collection",
+    "Select a collection for your project, once selected and cast, it cannot be modified.If you need a new collection, please create a collection.": "Select a collection for your project, once selected and cast, it cannot be modified.If you need a new collection, please create a collection.",
+    "Characteristic": "Characteristic",
+    "Attribute": "Attribute",
+    "Value": "Value",
+    "Add attributes?": "Add attributes?",
+    "Supports JPG/PNG, with files smaller than 2M": "Supports JPG/PNG, with files smaller than 2M"
+  },
+  "createCollection": {
+    "Create, plan, and manage an exclusive NFT series for sharing and sales.": "Create, plan, and manage an exclusive NFT series for sharing and sales.",
+    "Logo Image": "Logo Image",
+    "Banner Image": "Banner Image",
+    "My Series Name": "My Series Name",
+    "Token symbol": "Token symbol",
+    "The name cannot be changed after creating a collection.": "The name cannot be changed after creating a collection.",
+    "The symbol will be used to create your smart contract and cannot be changed after creating the collection.When others view your smart contract, the token symbol will be displayed on the blockbrowser.": "The symbol will be used to create your smart contract and cannot be changed after creating the collection.When others view your smart contract, the token symbol will be displayed on the blockbrowser.",
+    "Description": "Description",
+    "Classification": "Classification",
+    "Royalty": "Royalty",
+    "Charge a handling fee when a user resells a project originally created by you. You can set a ratio of less than 10%, which cannot be changed after creating a collection.": "Charge a handling fee when a user resells a project originally created by you. You can set a ratio of less than 10%, which cannot be changed after creating a collection.",
+    "Supports JPG/PNG, with files smaller than 2M": "Supports JPG/PNG, with files smaller than 2M"
+  },
+  "loading": {
+    "Uploading Image": "Uploading Image"
+  },
+  "requireText": {
+    "Please input field": "Please input field",
+    "Name already existed": "Name already existed",
+    "Please enter a valid amount.": "Please enter a valid amount.",
+    "You don't have enough %asset%": "You don't have enough %asset%"
+  },
+  "nftDetail": {
+    "Contract address": "Contract address",
+    "Token ID": "Token ID",
+    "Token standard": "Token standard",
+    "Owner": "Owner",
+    "Creator": "Creator"
+  },
+  "listing": {
+    "Sales method": "Sales method",
+    "listing": "listing",
+    "Listing price": "Listing price",
+    "Duration": "Duration",
+    "Fixed price": "Fixed price",
+    "Auction": "Auction",
+    "Min amount": "Min amount",
+    "Time buffer": "Time buffer",
+    "Bid buffer": "Bid buffer",
+    "List NFT and sell NFT in the trading market": "List NFT and sell NFT in the trading market",
+    "Days": "Days"
+  },
+  "tooltip": {
+    "The total bid amount for which the bidder can directly purchase the auctioned items and close the auction as a result.": "The total bid amount for which the bidder can directly purchase the auctioned items and close the auction as a result.",
+    "The minimum bid amount for the auction.": "The minimum bid amount for the auction.",
+    "This is a buffer e.g. x seconds. If a new winning bid is made less than x seconds before expirationTimestamp, the expirationTimestamp is increased by x seconds.": "This is a buffer e.g. x seconds. If a new winning bid is made less than x seconds before expirationTimestamp, the expirationTimestamp is increased by x seconds.",
+    "This is a buffer in basis points e.g. x%. To be considered as a new winning bid, a bid must be at least x% greater than the current winning bid.": "This is a buffer in basis points e.g. x%. To be considered as a new winning bid, a bid must be at least x% greater than the current winning bid."
+  },
+  "modal": {
+    "Are you sure you want to continue?": "Are you sure you want to continue?",
+    "Confirm purchase": "Confirm purchase",
+    "Do you want to remove this NFT？After delisting, it will no longer be displayed in the trading market": "Do you want to remove this NFT？After delisting, it will no longer be displayed in the trading market",
+    "Tip": "Tip"
+  },
+  "notification": {
+    "Transaction submitted": "Transaction submitted",
+    "NFT bought successfully": "NFT bought successfully",
+    "%asset% approved successfully": "%asset% approved successfully",
+    "Listing cancelled": "Listing cancelled",
+    "NFT approved": "NFT approved",
+    "NFT listed": "NFT listed",
+    "Placed a bid": "Placed a bid"
+  }
+}

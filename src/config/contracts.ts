@@ -1,0 +1,14 @@
+export const MULTICALL_ADDR: any = {
+  1: "0xeefba1e63905ef1d7acba5a8513c70307c1ce441",
+  11155111: "0x55034b2cF530ae3A8fC1e2e4523F58496796610F",
+};
+
+export const COLLECTION_FACTORY: any = {
+  1: "",
+  11155111: "0x6a539cFa99E75C5f6b6de659256990cFC587f5c5",
+};
+
+export const MARKETPLACE_ADDR: any = {
+  1: "",
+  11155111: "0xf8b0fde5B352694E71588FF3bF732A2C0a8982Cd",
+};
