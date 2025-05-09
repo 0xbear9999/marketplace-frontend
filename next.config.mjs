@@ -12,22 +12,15 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/api/v0/sdk/:path*',
-        destination: 'https://app.dynamicauth.com/api/v0/sdk/:path*',
-        has: [
-          {
-            type: 'header',
-            key: 'origin',
-            value: '(.*)',
-          },
-        ],
+        source: '/dynamic-auth/:path*',
+        destination: 'https://app.dynamicauth.com/api/v0/:path*',
       },
     ]
   },
   async headers() {
     return [
       {
-        source: '/api/v0/sdk/:path*',
+        source: '/dynamic-auth/:path*',
         headers: [
           { key: 'Access-Control-Allow-Credentials', value: 'true' },
           { key: 'Access-Control-Allow-Origin', value: '*' },

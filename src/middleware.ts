@@ -3,7 +3,7 @@ import type { NextRequest } from 'next/server'
 
 export function middleware(request: NextRequest) {
   // Handle Dynamic Auth API requests
-  if (request.nextUrl.pathname.startsWith('/api/v0/sdk')) {
+  if (request.nextUrl.pathname.startsWith('/dynamic-auth')) {
     // Handle preflight requests
     if (request.method === 'OPTIONS') {
       return new NextResponse(null, {
@@ -33,5 +33,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: '/api/v0/sdk/:path*',
+  matcher: '/dynamic-auth/:path*',
 } 
